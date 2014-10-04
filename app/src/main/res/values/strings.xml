@@ -2,7 +2,9 @@
 <resources>
 
     <string name="app_name">FaceOff</string>
-    <string name="placeholder">Some shit to come here</string>
+    <string name="go">Go!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_results">Results</string>
+    <string name="loading_placeholder">Loading...</string>
 
 </resources>
